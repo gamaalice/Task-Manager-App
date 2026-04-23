@@ -83,7 +83,7 @@ Entity: `Tasks`
 
 ## Screenshots
 
-Available in the `/screenshots` folder.
+Available in the `/apps photos` folder.
 
 ---
 
